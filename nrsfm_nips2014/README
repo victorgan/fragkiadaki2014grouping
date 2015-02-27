@@ -1,0 +1,4 @@
+To run:
+- install the 2 zipped libraries (SDPT3-4.0 and YALMIP) and change the Initialization.m file accordingly with the installations paths.
+- run startup.m from within the main folder
+- run demo_gbnrsfm.m
