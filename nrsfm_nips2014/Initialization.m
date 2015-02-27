@@ -28,8 +28,8 @@
 %Last update: 2012-10-01
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 home_dir=[pwd '/'];
-addpath(genpath(['/work2/katef/Code/Packages/yalmip/']));
-addpath(genpath(['/work2/katef/Code/Packages/SDPT3-4.0/']));
+addpath(genpath([home_dir 'yalmip/']));
+addpath(genpath([home_dir 'SDPT3-4.0/']));
 % addpath('/work2/katef/Code/VideoReconstruction/yalmip/')
 % addpath('/work2/katef/Code/VideoReconstruction/SDPT3-4.0/')
 % % addpath('/work2/katef/Code/VideoReconstruction/yalmip/')
